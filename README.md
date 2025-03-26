@@ -6,15 +6,15 @@ Behold the **Awesomeness** Simulator for software engineers! Sure, some folks mi
 
 Proudly powered by .NET 9 and your friendly neighborhood mega-corporation—because what’s more awesome than corporate synergy?
 
-![til](./assets/stakeholder-animation.gif)
-
 ## Installation
 
-* Clone repo
-
-* Go to src folder
-
-* dotnet run
-
+* Clone:
+`git clone https://github.com/loxsmoke/stakeholder.git`
+* Go to the folder:
+`cd stakeholder/src`
+* Run:
+`dotnet run`
 * Bask in the glory of terminal awesomeness
+  
+![til](./assets/stakeholder-animation.gif)
 
